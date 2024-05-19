@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+.link-header{
+    text-decoration: none;
+    color: blueviolet;
+    background-color: pink;
+    padding: 5px;
+    font-family: fantasy;
+    text-align: center;
+    display: inline-block;
+    margin-left: 10px;
+   
+   
+
+}
+h1{
+    background-image: linear-gradient(pink,white);
+}
+main{
+    text-align: center;
+}
+.link-header:hover{
+    text-decoration: none;
+    color: violet;
+    background-color: aqua;
+    
+}
+header{
+align-items:flex-start;
+display: flex;
+justify-content: left;
+}
+    
+
+
+    
+    
+
+body{
+    font-family: sans-serif;
+}
